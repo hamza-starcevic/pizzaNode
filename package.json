@@ -1,0 +1,14 @@
+{
+  "name": "pizzanode",
+  "version": "1.0.0",
+  "description": "pizza backend api for pizza app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
